@@ -6,4 +6,7 @@ Este programa fue realizado con el lenguaje visual basic y utilizando el conecto
 Se utilizaron funciones para crear los reportes, así como también manejo de componentes que brinda el IDE visual studio 2022 
 para facilitar el trabajo.
 
+El resultado fue positivo ya que facilito y redujo mucho el proceso de inventarios, mayormente, para los auditores.
+Por lo cual es un programa funcional y aprovado.
+
 Create by Pedro Pablo Celada Betancourt.
