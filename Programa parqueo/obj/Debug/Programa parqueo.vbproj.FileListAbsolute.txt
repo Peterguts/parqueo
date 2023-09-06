@@ -1,0 +1,428 @@
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\Guna.UI.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\Guna.UI.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Documentos\Programa parqueo Mysql\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\Guna.UI.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Mysql 18-07-2023\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\Guna.UI.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+D:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+E:\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\OneDrive\Escritorio\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\Guna.UI.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Documents\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Peter Celada\Downloads\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro Pablo\Downloads\Programa parqueo Fin (2)\Programa parqueo Fin (3)\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe.config
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.exe
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.pdb
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\Programa parqueo.xml
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\adodb.dll
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.dll
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.dll
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.xml
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\bin\Debug\zxing.presentation.xml
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmBuscar.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmClave.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmCobro.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEditar.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmEspacio.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmMarca.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrecio.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmPrincipal.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmReportes.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSesion.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmSplash.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmTicket.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.FrmUsuario.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa_parqueo.Resources.resources
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.vbproj.CopyComplete
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.exe
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.xml
+C:\Users\Pedro\Downloads\Programa parqueo Fin\Programa parqueo Fin\Programa parqueo\obj\Debug\Programa parqueo.pdb
